@@ -4,10 +4,6 @@ html {
     scroll-behavior: smooth;
 }
 
-.none{
-    display: none;
-}
-
 .page {
     font-family: 'Inter Regular', sans-serif;
     max-width: 1900px;
