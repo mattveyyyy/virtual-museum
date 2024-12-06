@@ -304,10 +304,6 @@
         max-width: 70%;
     }
 
-    .none {
-        display: inline-block;
-    }
-
     .menu__list {
         gap: 10px;
     }
